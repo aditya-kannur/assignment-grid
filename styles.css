@@ -1,0 +1,45 @@
+.grid-container{
+    display: grid;
+    width: 100%;
+    grid-template-columns: repeat(3,33%);
+    grid-template-rows: repeat(3,300px);
+    grid-row-gap: 10px;
+    grid-column-gap: 10px;
+
+}
+
+.grid-item-1{
+    background: url(./assests/gridimg1.jpeg);
+    background-size: 100% 100%;
+}
+.grid-item-2{
+    background: url(./assests/gridimg2.jpeg);
+    background-size: 100% 100%;
+}
+.grid-item-3{
+    background: url(./assests/gridimg3.jpeg);    
+    background-size: 100% 100%;
+}
+.grid-item-4{
+    background: url(./assests/gridimg4.jpeg);
+    background-size: 100% 100%;
+}
+.grid-item-5{
+    background: url(./assests/gridimg5.jpeg);
+    background-size: 100% 100%;
+}
+.grid-item-6{
+    background: url(./assests/gridimg6.avif);
+    background-size: 100% 100%;
+}
+.grid-item-7{
+    background: url(./assests/gridimg7.png);
+}
+.grid-item-8{
+background: url(./assests/gridimg8.jpeg);
+background-size: 100% 100%;
+}
+.grid-item-9{
+    background: url(./assests/gridimg9.jpeg);
+    background-size: 100% 100%;
+}
